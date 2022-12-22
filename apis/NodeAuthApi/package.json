@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
-    "jsonwebtoken": "^8.2.0"
+    "jsonwebtoken": "^9.0.0"
   }
 }
